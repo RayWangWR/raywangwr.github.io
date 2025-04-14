@@ -16,11 +16,11 @@ redirect_from:
 
 ## About Me
 
-I am a software engineer in Google Cloud AI working on Gemini. I obtained my PhD degree from Duke University in 2023, advised by Professor [Ricardo Henao](https://ece.duke.edu/faculty/ricardo-henao). My PhD research lies in the area of low-resource training with pretrained deep learning models, for the tasks of natural langauge generation/understanding, multimodal retrieval, etc. Previously, I interned in Adobe (2023) working on mitigating hallucination with large language models. I also interned in Adobe (2021) on continual few-shot learning and Amazon (2020) on knowledge distillation.
-
+I am currently a research scientist in Adobe Research. Previously, I was a software engineer in Google Cloud AI working on Gemini and LLM factuality. I obtained my PhD degree from Duke University in 2023, advised by Professor [Ricardo Henao](https://ece.duke.edu/faculty/ricardo-henao). My PhD research lies broadly in efficient training and adaptation of pre-trained models, with application to natural langauge generation/understanding, multimodal retrieval, etc. 
 
 
 ## News
+* 2025 - Join Adobe as a Research Scientist
 * 2024 - [Core Contributor of Gemini](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)
 * 2024 - Join Google Cloud AI working on Gemini
 * 2023 - Review for ARR, EMNLP, BMCV, AISTATS, SIGIR, UAI and AAAI
